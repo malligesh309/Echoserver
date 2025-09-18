@@ -20,8 +20,7 @@ Implementation using Python code
 Testing the server and client 
 
 ## PROGRAM:
-###name: Malligesh M
-###register number: 212223230119
+
 server.py
 ```
 import socket
